@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, GeocompassActivity!</string>
+    <string name="app_name">Geocompass</string>
+    <string name="Strike">Strike</string>
+    <string name="Dip">Dip</string>
+    <string name="Rovescia">Rovescia</string>
+    <string name="Salva">Salva</string>
+
+</resources>
