@@ -1,0 +1,1219 @@
+D/Compass (13769): onResume
+D/Compass (13769): sensorChanged (Az58.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az1.0122909661567112,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az56.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.9773843811168246,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az54.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.9424777960769379,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az52.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.9075712110370514,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az51.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.8901179185171081,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az49.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.8552113334772214,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az47.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.8203047484373349,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az46.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.8028514559173916,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az45.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.7853981633974483,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az44.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.767944870877505,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az44.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.767944870877505,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az43.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.7504915783575618,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az42.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.7330382858376184,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az41.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.7155849933176751,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az41.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.7155849933176751,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az41.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.7155849933176751,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az40.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6981317007977318,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az40.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6981317007977318,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az40.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6981317007977318,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az40.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6981317007977318,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az40.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6981317007977318,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az40.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6981317007977318,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az40.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6981317007977318,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az40.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6981317007977318,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az39.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6806784082777885,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az39.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6806784082777885,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az39.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6806784082777885,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az39.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6806784082777885,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az39.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6806784082777885,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az39.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6806784082777885,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az39.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6806784082777885,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az39.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6806784082777885,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az39.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6806784082777885,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az39.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6806784082777885,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az39.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6806784082777885,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az38.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6632251157578453,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az38.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6632251157578453,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az38.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6632251157578453,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az38.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6632251157578453,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az38.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6632251157578453,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az38.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6632251157578453,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az38.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6632251157578453,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948948
+D/Compass (13769): dir_maxpendenza-89.9999999999999
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza0.7853981633974483
+D/Compass (13769): dir_maxpendenza45.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 7.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.12217304763960307,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta 0.12186934340514749
+D/Compass (13769): dir_maxpendenza-0.27890405760688575
+D/Compass (13769): dir_maxpendenza-15.980025389948135
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az36.0,pitch 3.0,roll 8.0)
+D/Compass (13769): sensorChanged (Az0.6283185307179586,pitch 0.05235987755982989,roll 0.13962634015954636)
+D/Compass (13769): cosalfa 0.13917310096006547,cobeta 0.052335956242943966
+D/Compass (13769): dir_maxpendenza1.2111059828237
+D/Compass (13769): dir_maxpendenza69.39126135884159
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch 0.0,roll -6.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch 0.0,roll -0.10471975511965978)
+D/Compass (13769): cosalfa -0.10452846326765333,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948961
+D/Compass (13769): dir_maxpendenza-89.99999999999997
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az36.0,pitch -2.0,roll 11.0)
+D/Compass (13769): sensorChanged (Az0.6283185307179586,pitch -0.03490658503988659,roll 0.19198621771937624)
+D/Compass (13769): cosalfa 0.19080899537654492,cobeta -0.034899496702500955
+D/Compass (13769): dir_maxpendenza-1.389893131655897
+D/Compass (13769): dir_maxpendenza-79.63501041810378
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az35.0,pitch 19.0,roll 2.0)
+D/Compass (13769): sensorChanged (Az0.6108652381980153,pitch 0.33161255787892263,roll 0.03490658503988659)
+D/Compass (13769): cosalfa 0.03489949670250108,cobeta 0.32556815445715676
+D/Compass (13769): dir_maxpendenza0.10678788659858461
+D/Compass (13769): dir_maxpendenza6.118495205220542
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az35.0,pitch 33.0,roll -4.0)
+D/Compass (13769): sensorChanged (Az0.6108652381980153,pitch 0.5759586531581288,roll -0.06981317007977318)
+D/Compass (13769): cosalfa -0.06975647374412533,cobeta 0.5446390350150272
+D/Compass (13769): dir_maxpendenza-0.12738483677631984
+D/Compass (13769): dir_maxpendenza-7.298613521246002
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az35.0,pitch 38.0,roll 2.0)
+D/Compass (13769): sensorChanged (Az0.6108652381980153,pitch 0.6632251157578453,roll 0.03490658503988659)
+D/Compass (13769): cosalfa 0.03489949670250108,cobeta 0.6156614753256583
+D/Compass (13769): dir_maxpendenza0.05662557897127647
+D/Compass (13769): dir_maxpendenza3.2444066875388877
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az35.0,pitch 37.0,roll 3.0)
+D/Compass (13769): sensorChanged (Az0.6108652381980153,pitch 0.6457718232379019,roll 0.05235987755982989)
+D/Compass (13769): cosalfa 0.052335956242943966,cobeta 0.6018150231520483
+D/Compass (13769): dir_maxpendenza0.08674529008727017
+D/Compass (13769): dir_maxpendenza4.970139014638597
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az35.0,pitch 40.0,roll 4.0)
+D/Compass (13769): sensorChanged (Az0.6108652381980153,pitch 0.6981317007977318,roll 0.06981317007977318)
+D/Compass (13769): cosalfa 0.06975647374412546,cobeta 0.6427876096865394
+D/Compass (13769): dir_maxpendenza0.10809877369899755
+D/Compass (13769): dir_maxpendenza6.193603503492346
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az35.0,pitch 35.0,roll 3.0)
+D/Compass (13769): sensorChanged (Az0.6108652381980153,pitch 0.6108652381980153,roll 0.05235987755982989)
+D/Compass (13769): cosalfa 0.052335956242943966,cobeta 0.573576436351046
+D/Compass (13769): dir_maxpendenza0.09099298841355491
+D/Compass (13769): dir_maxpendenza5.213514201379496
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az35.0,pitch 34.0,roll 3.0)
+D/Compass (13769): sensorChanged (Az0.6108652381980153,pitch 0.5934119456780721,roll 0.05235987755982989)
+D/Compass (13769): cosalfa 0.052335956242943966,cobeta 0.5591929034707469
+D/Compass (13769): dir_maxpendenza0.09332010937908682
+D/Compass (13769): dir_maxpendenza5.346848411120884
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az35.0,pitch 32.0,roll 2.0)
+D/Compass (13769): sensorChanged (Az0.6108652381980153,pitch 0.5585053606381855,roll 0.03490658503988659)
+D/Compass (13769): cosalfa 0.03489949670250108,cobeta 0.5299192642332049
+D/Compass (13769): dir_maxpendenza0.06576317090323038
+D/Compass (13769): dir_maxpendenza3.7679521401526386
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az35.0,pitch 30.0,roll -0.0)
+D/Compass (13769): sensorChanged (Az0.6108652381980153,pitch 0.5235987755982988,roll -0.0)
+D/Compass (13769): cosalfa 6.123233995736766E-17,cobeta 0.4999999999999999
+D/Compass (13769): dir_maxpendenza1.2246467991473535E-16
+D/Compass (13769): dir_maxpendenza7.0167092985348775E-15
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az35.0,pitch 9.0,roll -23.0)
+D/Compass (13769): sensorChanged (Az0.6108652381980153,pitch 0.15707963267948966,roll -0.4014257279586958)
+D/Compass (13769): cosalfa -0.3907311284892736,cobeta 0.15643446504023092
+D/Compass (13769): dir_maxpendenza-1.189976664661057
+D/Compass (13769): dir_maxpendenza-68.18064060413302
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az35.0,pitch 0.0,roll -33.0)
+D/Compass (13769): sensorChanged (Az0.6108652381980153,pitch 0.0,roll -0.5759586531581288)
+D/Compass (13769): cosalfa -0.5446390350150271,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948966
+D/Compass (13769): dir_maxpendenza-90.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az35.0,pitch 0.0,roll -54.0)
+D/Compass (13769): sensorChanged (Az0.6108652381980153,pitch 0.0,roll -0.9424777960769379)
+D/Compass (13769): cosalfa -0.8090169943749473,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza-1.5707963267948966
+D/Compass (13769): dir_maxpendenza-90.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az34.0,pitch -4.0,roll -46.0)
+D/Compass (13769): sensorChanged (Az0.5934119456780721,pitch -0.06981317007977318,roll -0.8028514559173916)
+D/Compass (13769): cosalfa -0.719339800338651,cobeta -0.06975647374412533
+D/Compass (13769): dir_maxpendenza1.4741256826384659
+D/Compass (13769): dir_maxpendenza84.46118008702551
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az33.0,pitch -3.0,roll -48.0)
+D/Compass (13769): sensorChanged (Az0.5759586531581288,pitch -0.05235987755982989,roll -0.8377580409572782)
+D/Compass (13769): cosalfa -0.7431448254773944,cobeta -0.05233595624294384
+D/Compass (13769): dir_maxpendenza1.5004874342754542
+D/Compass (13769): dir_maxpendenza85.97159719639703
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az32.0,pitch -2.0,roll -46.0)
+D/Compass (13769): sensorChanged (Az0.5585053606381855,pitch -0.03490658503988659,roll -0.8028514559173916)
+D/Compass (13769): cosalfa -0.719339800338651,cobeta -0.034899496702500955
+D/Compass (13769): dir_maxpendenza1.5223183291777986
+D/Compass (13769): dir_maxpendenza87.22241533729503
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az32.0,pitch -3.0,roll -48.0)
+D/Compass (13769): sensorChanged (Az0.5585053606381855,pitch -0.05235987755982989,roll -0.8377580409572782)
+D/Compass (13769): cosalfa -0.7431448254773944,cobeta -0.05233595624294384
+D/Compass (13769): dir_maxpendenza1.5004874342754542
+D/Compass (13769): dir_maxpendenza85.97159719639703
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az30.0,pitch -3.0,roll -45.0)
+D/Compass (13769): sensorChanged (Az0.5235987755982988,pitch -0.05235987755982989,roll -0.7853981633974483)
+D/Compass (13769): cosalfa -0.7071067811865475,cobeta -0.05233595624294384
+D/Compass (13769): dir_maxpendenza1.4969168177248717
+D/Compass (13769): dir_maxpendenza85.7670159377891
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az29.0,pitch -3.0,roll -45.0)
+D/Compass (13769): sensorChanged (Az0.5061454830783556,pitch -0.05235987755982989,roll -0.7853981633974483)
+D/Compass (13769): cosalfa -0.7071067811865475,cobeta -0.05233595624294384
+D/Compass (13769): dir_maxpendenza1.4969168177248717
+D/Compass (13769): dir_maxpendenza85.7670159377891
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az28.0,pitch -3.0,roll -45.0)
+D/Compass (13769): sensorChanged (Az0.4886921905584123,pitch -0.05235987755982989,roll -0.7853981633974483)
+D/Compass (13769): cosalfa -0.7071067811865475,cobeta -0.05233595624294384
+D/Compass (13769): dir_maxpendenza1.4969168177248717
+D/Compass (13769): dir_maxpendenza85.7670159377891
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az27.0,pitch -3.0,roll -43.0)
+D/Compass (13769): sensorChanged (Az0.47123889803846897,pitch -0.05235987755982989,roll -0.7504915783575618)
+D/Compass (13769): cosalfa -0.6819983600624984,cobeta -0.05233595624294384
+D/Compass (13769): dir_maxpendenza1.4942073096389417
+D/Compass (13769): dir_maxpendenza85.61177255990873
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az27.0,pitch -4.0,roll -44.0)
+D/Compass (13769): sensorChanged (Az0.47123889803846897,pitch -0.06981317007977318,roll -0.767944870877505)
+D/Compass (13769): cosalfa -0.6946583704589974,cobeta -0.06975647374412533
+D/Compass (13769): dir_maxpendenza1.470713445982109
+D/Compass (13769): dir_maxpendenza84.26567332791642
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az27.0,pitch -3.0,roll -45.0)
+D/Compass (13769): sensorChanged (Az0.47123889803846897,pitch -0.05235987755982989,roll -0.7853981633974483)
+D/Compass (13769): cosalfa -0.7071067811865475,cobeta -0.05233595624294384
+D/Compass (13769): dir_maxpendenza1.4969168177248717
+D/Compass (13769): dir_maxpendenza85.7670159377891
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az25.0,pitch -8.0,roll -27.0)
+D/Compass (13769): sensorChanged (Az0.4363323129985824,pitch -0.13962634015954636,roll -0.47123889803846897)
+D/Compass (13769): cosalfa -0.45399049973954675,cobeta -0.13917310096006535
+D/Compass (13769): dir_maxpendenza1.2733365858041514
+D/Compass (13769): dir_maxpendenza72.95681226617569
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az26.0,pitch -11.0,roll -18.0)
+D/Compass (13769): sensorChanged (Az0.4537856055185257,pitch -0.19198621771937624,roll -0.3141592653589793)
+D/Compass (13769): cosalfa -0.30901699437494734,cobeta -0.1908089953765448
+D/Compass (13769): dir_maxpendenza1.0176295400093476
+D/Compass (13769): dir_maxpendenza58.30587775037497
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az28.0,pitch -18.0,roll -2.0)
+D/Compass (13769): sensorChanged (Az0.4886921905584123,pitch -0.3141592653589793,roll -0.03490658503988659)
+D/Compass (13769): cosalfa -0.034899496702500955,cobeta -0.30901699437494734
+D/Compass (13769): dir_maxpendenza0.11246062169263875
+D/Compass (13769): dir_maxpendenza6.443518984405593
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az30.0,pitch -20.0,roll 17.0)
+D/Compass (13769): sensorChanged (Az0.5235987755982988,pitch -0.3490658503988659,roll 0.29670597283903605)
+D/Compass (13769): cosalfa 0.29237170472273677,cobeta -0.3420201433256687
+D/Compass (13769): dir_maxpendenza-0.7072958888686278
+D/Compass (13769): dir_maxpendenza-40.52506929912648
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az31.0,pitch -27.0,roll 17.0)
+D/Compass (13769): sensorChanged (Az0.5410520681182421,pitch -0.47123889803846897,roll 0.29670597283903605)
+D/Compass (13769): cosalfa 0.29237170472273677,cobeta -0.45399049973954675
+D/Compass (13769): dir_maxpendenza-0.5721485619121518
+D/Compass (13769): dir_maxpendenza-32.78169785204578
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az33.0,pitch -29.0,roll 14.0)
+D/Compass (13769): sensorChanged (Az0.5759586531581288,pitch -0.5061454830783556,roll 0.24434609527920614)
+D/Compass (13769): cosalfa 0.24192189559966767,cobeta -0.484809620246337
+D/Compass (13769): dir_maxpendenza-0.4628504187002621
+D/Compass (13769): dir_maxpendenza-26.519375537388054
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az35.0,pitch -29.0,roll 10.0)
+D/Compass (13769): sensorChanged (Az0.6108652381980153,pitch -0.5061454830783556,roll 0.17453292519943295)
+D/Compass (13769): cosalfa 0.17364817766693041,cobeta -0.484809620246337
+D/Compass (13769): dir_maxpendenza-0.3439417530745652
+D/Compass (13769): dir_maxpendenza-19.706410849503293
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az37.0,pitch -29.0,roll 7.0)
+D/Compass (13769): sensorChanged (Az0.6457718232379019,pitch -0.5061454830783556,roll 0.12217304763960307)
+D/Compass (13769): cosalfa 0.12186934340514749,cobeta -0.484809620246337
+D/Compass (13769): dir_maxpendenza-0.24627299225071295
+D/Compass (13769): dir_maxpendenza-14.110403064023881
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az38.0,pitch -30.0,roll 13.0)
+D/Compass (13769): sensorChanged (Az0.6632251157578453,pitch -0.5235987755982988,roll 0.22689280275926285)
+D/Compass (13769): cosalfa 0.22495105434386514,cobeta -0.4999999999999998
+D/Compass (13769): dir_maxpendenza-0.42277251665416354
+D/Compass (13769): dir_maxpendenza-24.22308089840788
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az39.0,pitch -32.0,roll 9.0)
+D/Compass (13769): sensorChanged (Az0.6806784082777885,pitch -0.5585053606381855,roll 0.15707963267948966)
+D/Compass (13769): cosalfa 0.15643446504023092,cobeta -0.5299192642332048
+D/Compass (13769): dir_maxpendenza-0.28705131725745087
+D/Compass (13769): dir_maxpendenza-16.446828982522746
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az40.0,pitch -32.0,roll 10.0)
+D/Compass (13769): sensorChanged (Az0.6981317007977318,pitch -0.5585053606381855,roll 0.17453292519943295)
+D/Compass (13769): cosalfa 0.17364817766693041,cobeta -0.5299192642332048
+D/Compass (13769): dir_maxpendenza-0.31666116834730695
+D/Compass (13769): dir_maxpendenza-18.143348481982343
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az40.0,pitch -31.0,roll 9.0)
+D/Compass (13769): sensorChanged (Az0.6981317007977318,pitch -0.5410520681182421,roll 0.15707963267948966)
+D/Compass (13769): cosalfa 0.15643446504023092,cobeta -0.5150380749100543
+D/Compass (13769): dir_maxpendenza-0.294878757370602
+D/Compass (13769): dir_maxpendenza-16.89530826539771
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az40.0,pitch -33.0,roll 11.0)
+D/Compass (13769): sensorChanged (Az0.6981317007977318,pitch -0.5759586531581288,roll 0.19198621771937624)
+D/Compass (13769): cosalfa 0.19080899537654492,cobeta -0.5446390350150271
+D/Compass (13769): dir_maxpendenza-0.33697793746232535
+D/Compass (13769): dir_maxpendenza-19.307413605614638
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az41.0,pitch -27.0,roll 14.0)
+D/Compass (13769): sensorChanged (Az0.7155849933176751,pitch -0.47123889803846897,roll 0.24434609527920614)
+D/Compass (13769): cosalfa 0.24192189559966767,cobeta -0.45399049973954675
+D/Compass (13769): dir_maxpendenza-0.4896033546772012
+D/Compass (13769): dir_maxpendenza-28.05220585845036
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az41.0,pitch -21.0,roll 41.0)
+D/Compass (13769): sensorChanged (Az0.7155849933176751,pitch -0.3665191429188092,roll 0.7155849933176751)
+D/Compass (13769): cosalfa 0.6560590289905073,cobeta -0.35836794954530027
+D/Compass (13769): dir_maxpendenza-1.07084179500895
+D/Compass (13769): dir_maxpendenza-61.3547153802261
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az40.0,pitch -10.0,roll 60.0)
+D/Compass (13769): sensorChanged (Az0.6981317007977318,pitch -0.17453292519943295,roll 1.0471975511965976)
+D/Compass (13769): cosalfa 0.8660254037844386,cobeta -0.1736481776669303
+D/Compass (13769): dir_maxpendenza-1.3729088497700228
+D/Compass (13769): dir_maxpendenza-78.66188274798269
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az39.0,pitch 0.0,roll 66.0)
+D/Compass (13769): sensorChanged (Az0.6806784082777885,pitch 0.0,roll 1.1519173063162575)
+D/Compass (13769): cosalfa 0.913545457642601,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza1.5707963267948966
+D/Compass (13769): dir_maxpendenza90.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az39.0,pitch 5.0,roll 60.0)
+D/Compass (13769): sensorChanged (Az0.6806784082777885,pitch 0.08726646259971647,roll 1.0471975511965976)
+D/Compass (13769): cosalfa 0.8660254037844386,cobeta 0.08715574274765814
+D/Compass (13769): dir_maxpendenza1.4704952558972137
+D/Compass (13769): dir_maxpendenza84.25317195692033
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az39.0,pitch -3.0,roll 53.0)
+D/Compass (13769): sensorChanged (Az0.6806784082777885,pitch -0.05235987755982989,roll 0.9250245035569946)
+D/Compass (13769): cosalfa 0.7986355100472928,cobeta -0.05233595624294384
+D/Compass (13769): dir_maxpendenza-1.505358175410346
+D/Compass (13769): dir_maxpendenza-86.25067010652708
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az38.0,pitch 3.0,roll 56.0)
+D/Compass (13769): sensorChanged (Az0.6632251157578453,pitch 0.05235987755982989,roll 0.9773843811168246)
+D/Compass (13769): cosalfa 0.8290375725550417,cobeta 0.052335956242943966
+D/Compass (13769): dir_maxpendenza1.5077514174061686
+D/Compass (13769): dir_maxpendenza86.38779277224118
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az38.0,pitch 7.0,roll 50.0)
+D/Compass (13769): sensorChanged (Az0.6632251157578453,pitch 0.12217304763960307,roll 0.8726646259971648)
+D/Compass (13769): cosalfa 0.766044443118978,cobeta 0.12186934340514749
+D/Compass (13769): dir_maxpendenza1.4130293251269312
+D/Compass (13769): dir_maxpendenza80.96061665799216
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az38.0,pitch 2.0,roll 51.0)
+D/Compass (13769): sensorChanged (Az0.6632251157578453,pitch 0.03490658503988659,roll 0.8901179185171081)
+D/Compass (13769): cosalfa 0.7771459614569709,cobeta 0.03489949670250108
+D/Compass (13769): dir_maxpendenza1.5259192166844677
+D/Compass (13769): dir_maxpendenza87.42873099392855
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az38.0,pitch 5.0,roll 52.0)
+D/Compass (13769): sensorChanged (Az0.6632251157578453,pitch 0.08726646259971647,roll 0.9075712110370514)
+D/Compass (13769): cosalfa 0.788010753606722,cobeta 0.08715574274765814
+D/Compass (13769): dir_maxpendenza1.4606418137457122
+D/Compass (13769): dir_maxpendenza83.68861130796299
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az38.0,pitch 0.0,roll 48.0)
+D/Compass (13769): sensorChanged (Az0.6632251157578453,pitch 0.0,roll 0.8377580409572782)
+D/Compass (13769): cosalfa 0.7431448254773944,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza1.5707963267948966
+D/Compass (13769): dir_maxpendenza90.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az38.0,pitch 0.0,roll 44.0)
+D/Compass (13769): sensorChanged (Az0.6632251157578453,pitch 0.0,roll 0.767944870877505)
+D/Compass (13769): cosalfa 0.6946583704589973,cobeta 6.123233995736766E-17
+D/Compass (13769): dir_maxpendenza1.5707963267948966
+D/Compass (13769): dir_maxpendenza90.0
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az38.0,pitch 4.0,roll 47.0)
+D/Compass (13769): sensorChanged (Az0.6632251157578453,pitch 0.06981317007977318,roll 0.8203047484373349)
+D/Compass (13769): cosalfa 0.7313537016191706,cobeta 0.06975647374412546
+D/Compass (13769): dir_maxpendenza1.4757040504616676
+D/Compass (13769): dir_maxpendenza84.55161390181422
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az38.0,pitch 5.0,roll 48.0)
+D/Compass (13769): sensorChanged (Az0.6632251157578453,pitch 0.08726646259971647,roll 0.8377580409572782)
+D/Compass (13769): cosalfa 0.7431448254773944,cobeta 0.08715574274765814
+D/Compass (13769): dir_maxpendenza1.454050020245428
+D/Compass (13769): dir_maxpendenza83.31092936097494
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az38.0,pitch 4.0,roll 46.0)
+D/Compass (13769): sensorChanged (Az0.6632251157578453,pitch 0.06981317007977318,roll 0.8028514559173916)
+D/Compass (13769): cosalfa 0.7193398003386512,cobeta 0.06975647374412546
+D/Compass (13769): dir_maxpendenza1.4741256826384657
+D/Compass (13769): dir_maxpendenza84.4611800870255
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------
+D/Compass (13769): sensorChanged (Az38.0,pitch 4.0,roll 45.0)
+D/Compass (13769): sensorChanged (Az0.6632251157578453,pitch 0.06981317007977318,roll 0.7853981633974483)
+D/Compass (13769): cosalfa 0.7071067811865476,cobeta 0.06975647374412546
+D/Compass (13769): dir_maxpendenza1.4724639399341715
+D/Compass (13769): dir_maxpendenza84.36596924343279
+D/Compass (13769): Dritta
+D/Compass (13769): -----------------------------------------------------------

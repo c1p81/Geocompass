@@ -5,7 +5,11 @@
     <string name="app_name">Geocompass</string>
     <string name="Strike">Strike</string>
     <string name="Dip">Dip</string>
-    <string name="Rovescia">Rovescia</string>
-    <string name="Salva">Salva</string>
+    <string name="Rovescia">Reverse</string>
+    <string name="orizzontale">Flat</string>
+    <string name="verticale">Direction </string>
+    <string name="Salva">Save</string>
+    <string name="help_title">Help</string>
+    <string name="help_text">Data will be saved on SD Card/geocompass.txt.Developed by Luca Innocenti (lucainnoc@gmail.com). This project is released with GPL license and can be found on git@github.com:c1p81/Geocompass.git. Feel free to contribute</string>
 
 </resources>

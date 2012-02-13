@@ -1,0 +1,905 @@
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 6.0, -0.0)
+D/Compass (13557): Strike 90.00000000000003,Dip  6.0
+D/Compass (13557): Pitch 6.000000000000001, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, -0.0)
+D/Compass (13557): Strike 90.00000000000004,Dip  5.0
+D/Compass (13557): Pitch 5.0, Roll -0.0
+D/Compass (13557): sensorChanged (40.0, 5.0, 1.0)
+D/Compass (13557): Strike 101.32336918625161,Dip  5.099519172134777
+D/Compass (13557): Pitch 5.0, Roll 1.0
+D/Compass (13557): sensorChanged (42.0, 2.0, -20.0)
+D/Compass (13557): Strike 5.826256160396184,Dip  20.10832210423513
+D/Compass (13557): Pitch 2.0, Roll -20.0
+D/Compass (13557): sensorChanged (42.0, 6.0, 7.0)
+D/Compass (13557): Strike 139.38000297494312,Dip  9.239189320041106
+D/Compass (13557): Pitch 6.000000000000001, Roll 7.0
+D/Compass (13557): sensorChanged (42.0, 19.0, 17.0)
+D/Compass (13557): Strike 131.92495979771235,Dip  25.949546725358402
+D/Compass (13557): Pitch 19.0, Roll 17.0
+D/Compass (13557): sensorChanged (43.0, 0.0, -25.0)
+D/Compass (13557): Strike -90.0,Dip  25.0
+D/Compass (13557): Pitch 0.0, Roll -25.0
+D/Compass (13557): sensorChanged (44.0, 14.0, 2.0)
+D/Compass (13557): Strike 98.20882089165741,Dip  14.147927830891959
+D/Compass (13557): Pitch 14.0, Roll 2.0
+D/Compass (13557): sensorChanged (44.0, 7.0, -2.0)
+D/Compass (13557): Strike 74.01997461005186,Dip  7.282863821468837
+D/Compass (13557): Pitch 7.0, Roll -2.0
+D/Compass (13557): sensorChanged (44.0, 8.0, -4.0)
+D/Compass (13557): Strike 63.379011977496525,Dip  8.956022887078205
+D/Compass (13557): Pitch 8.0, Roll -4.0
+D/Compass (13557): sensorChanged (45.0, 11.0, -8.0)
+D/Compass (13557): Strike 53.893572830492595,Dip  13.66071962065837
+D/Compass (13557): Pitch 11.0, Roll -8.0
+D/Compass (13557): sensorChanged (47.0, 17.0, -2.0)
+D/Compass (13557): Strike 83.19298970686432,Dip  17.124395596326536
+D/Compass (13557): Pitch 17.0, Roll -2.0
+D/Compass (13557): sensorChanged (47.0, 6.0, -2.0)
+D/Compass (13557): Strike 71.53709639358078,Dip  6.326879997151821
+D/Compass (13557): Pitch 6.000000000000001, Roll -2.0
+D/Compass (13557): onResume
+D/Compass (13557): sensorChanged (49.0, 6.0, -2.0)
+D/Compass (13557): Strike 71.53709639358078,Dip  6.326879997151821
+D/Compass (13557): Pitch 6.000000000000001, Roll -2.0
+D/Compass (13557): sensorChanged (50.0, 6.0, -2.0)
+D/Compass (13557): Strike 71.53709639358078,Dip  6.326879997151821
+D/Compass (13557): Pitch 6.000000000000001, Roll -2.0
+D/Compass (13557): sensorChanged (52.0, 6.0, -2.0)
+D/Compass (13557): Strike 71.53709639358078,Dip  6.326879997151821
+D/Compass (13557): Pitch 6.000000000000001, Roll -2.0
+D/Compass (13557): sensorChanged (53.0, 6.0, -2.0)
+D/Compass (13557): Strike 71.53709639358078,Dip  6.326879997151821
+D/Compass (13557): Pitch 6.000000000000001, Roll -2.0
+D/Compass (13557): sensorChanged (54.0, 6.0, -2.0)
+D/Compass (13557): Strike 71.53709639358078,Dip  6.326879997151821
+D/Compass (13557): Pitch 6.000000000000001, Roll -2.0
+D/Compass (13557): sensorChanged (55.0, 6.0, -2.0)
+D/Compass (13557): Strike 71.53709639358078,Dip  6.326879997151821
+D/Compass (13557): Pitch 6.000000000000001, Roll -2.0
+D/Compass (13557): sensorChanged (57.0, 6.0, -2.0)
+D/Compass (13557): Strike 71.53709639358078,Dip  6.326879997151821
+D/Compass (13557): Pitch 6.000000000000001, Roll -2.0
+D/Compass (13557): sensorChanged (58.0, 6.0, -2.0)
+D/Compass (13557): Strike 71.53709639358078,Dip  6.326879997151821
+D/Compass (13557): Pitch 6.000000000000001, Roll -2.0
+D/Compass (13557): sensorChanged (60.0, 6.0, -2.0)
+D/Compass (13557): Strike 71.53709639358078,Dip  6.326879997151821
+D/Compass (13557): Pitch 6.000000000000001, Roll -2.0
+D/Compass (13557): sensorChanged (60.0, -7.0, -12.0)
+D/Compass (13557): Strike 59.622909346142954,Dip  13.945373690963322
+D/Compass (13557): Pitch -7.0, Roll -12.000000000000002
+D/Compass (13557): sensorChanged (60.0, -7.0, 2.0)
+D/Compass (13557): Strike -15.980025389948207,Dip  7.282863821468823
+D/Compass (13557): Pitch -7.0, Roll 2.0
+D/Compass (13557): sensorChanged (60.0, -7.0, -3.0)
+D/Compass (13557): Strike 23.240773520442414,Dip  7.6216994338777795
+D/Compass (13557): Pitch -7.0, Roll -3.0000000000000004
+D/Compass (13557): sensorChanged (59.0, -9.0, -0.0)
+D/Compass (13557): Strike -2.242699297987296E-14,Dip  9.0
+D/Compass (13557): Pitch -9.0, Roll -0.0
+D/Compass (13557): sensorChanged (58.0, -4.0, -0.0)
+D/Compass (13557): Strike -5.0294323393359606E-14,Dip  4.0
+D/Compass (13557): Pitch -4.0, Roll -0.0
+D/Compass (13557): sensorChanged (58.0, -2.0, -4.0)
+D/Compass (13557): Strike 63.420980799725065,Dip  4.47359297135813
+D/Compass (13557): Pitch -2.0, Roll -4.0
+D/Compass (13557): sensorChanged (58.0, 2.0, -0.0)
+D/Compass (13557): Strike 90.0000000000001,Dip  2.0
+D/Compass (13557): Pitch 2.0, Roll -0.0
+D/Compass (13557): sensorChanged (58.0, -1.0, -4.0)
+D/Compass (13557): Strike 75.95348466559122,Dip  4.123500590874585
+D/Compass (13557): Pitch -1.0, Roll -4.0
+D/Compass (13557): sensorChanged (57.0, -5.0, -3.0)
+D/Compass (13557): Strike 30.984300835946517,Dip  5.834887713719681
+D/Compass (13557): Pitch -5.0, Roll -3.0000000000000004
+D/Compass (13557): sensorChanged (57.0, 0.0, -2.0)
+D/Compass (13557): Strike -89.9999999999999,Dip  1.9999999999999858
+D/Compass (13557): Pitch 0.0, Roll -2.0
+D/Compass (13557): sensorChanged (57.0, -3.0, -4.0)
+D/Compass (13557): Strike 53.12032554198902,Dip  5.002933901005676
+D/Compass (13557): Pitch -3.0000000000000004, Roll -4.0
+D/Compass (13557): sensorChanged (57.0, -7.0, -5.0)
+D/Compass (13557): Strike 35.57072890058091,Dip  8.61692631532074
+D/Compass (13557): Pitch -7.0, Roll -5.0
+D/Compass (13557): sensorChanged (57.0, -4.0, -7.0)
+D/Compass (13557): Strike 60.213722905588334,Dip  8.072217751240643
+D/Compass (13557): Pitch -4.0, Roll -7.0
+D/Compass (13557): sensorChanged (56.0, -3.0, -0.0)
+D/Compass (13557): Strike -6.703526411138136E-14,Dip  2.999999999999986
+D/Compass (13557): Pitch -3.0000000000000004, Roll -0.0
+D/Compass (13557): sensorChanged (56.0, 8.0, -4.0)
+D/Compass (13557): Strike 63.379011977496525,Dip  8.956022887078205
+D/Compass (13557): Pitch 8.0, Roll -4.0
+D/Compass (13557): sensorChanged (55.0, 2.0, -4.0)
+D/Compass (13557): Strike 26.579019200275013,Dip  4.47359297135813
+D/Compass (13557): Pitch 2.0, Roll -4.0
+D/Compass (13557): sensorChanged (54.0, 5.0, -4.0)
+D/Compass (13557): Strike 51.32741508368655,Dip  6.409501377967942
+D/Compass (13557): Pitch 5.0, Roll -4.0
+D/Compass (13557): sensorChanged (53.0, 0.0, -6.0)
+D/Compass (13557): Strike -89.99999999999997,Dip  5.999999999999986
+D/Compass (13557): Pitch 0.0, Roll -6.000000000000001
+D/Compass (13557): onStop
+D/Compass (13557): sensorChanged (53.0, -1.0, -6.0)
+D/Compass (13557): Strike 80.52114782077565,Dip  6.083366622183263
+D/Compass (13557): Pitch -1.0, Roll -6.000000000000001
+D/Compass (13678): onResume
+D/Compass (13678): sensorChanged (0.0, 5.0, -2.0)
+D/Compass (13678): Dritta
+D/Compass (13678): Strike 68.17751185303608,Dip  5.3870578148337955
+D/Compass (13678): Pitch 5.0, Roll -2.0
+D/Compass (13678): sensorChanged (0.0, 5.0, -0.0)
+D/Compass (13678): Dritta
+D/Compass (13678): Strike 90.00000000000004,Dip  5.0
+D/Compass (13678): Pitch 5.0, Roll -0.0

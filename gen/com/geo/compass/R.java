@@ -11,9 +11,15 @@ public final class R {
     public static final class attr {
     }
     public static final class drawable {
-        public static final int dritta=0x7f020000;
-        public static final int ic_launcher=0x7f020001;
-        public static final int icona=0x7f020002;
+        public static final int delete_item=0x7f020000;
+        public static final int dritta=0x7f020001;
+        public static final int help=0x7f020002;
+        public static final int icona=0x7f020003;
+        public static final int inkscape=0x7f020004;
+        public static final int orizzontale=0x7f020005;
+        public static final int rovescia=0x7f020006;
+        public static final int tool=0x7f020007;
+        public static final int verticale=0x7f020008;
     }
     public static final class id {
         public static final int TableLayout1=0x7f050000;
@@ -34,9 +40,13 @@ public final class R {
     public static final class string {
         public static final int Dip=0x7f040003;
         public static final int Rovescia=0x7f040004;
-        public static final int Salva=0x7f040005;
+        public static final int Salva=0x7f040007;
         public static final int Strike=0x7f040002;
         public static final int app_name=0x7f040001;
         public static final int hello=0x7f040000;
+        public static final int help_text=0x7f040009;
+        public static final int help_title=0x7f040008;
+        public static final int orizzontale=0x7f040005;
+        public static final int verticale=0x7f040006;
     }
 }
