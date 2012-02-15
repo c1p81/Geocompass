@@ -57,20 +57,51 @@
         android:layout_width="wrap_content"
         android:layout_height="150dp"
         android:baselineAligned="false"
-        android:gravity="center" >
+        android:gravity="center|left" >
 
         <CheckBox
             android:id="@+id/chkrovescia"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_gravity="left"
             android:text="@string/Rovescia" />
+
+        <TextView
+            android:id="@+id/gps"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:gravity="left"
+            android:text="@string/gps"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <ImageView
+            android:id="@+id/imggps"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/pallino_rosso"
+            android:visibility="invisible" />
+
+    </TableRow>
+       <TableRow
+        android:id="@+id/tableRow4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal" >
+
+        <Spinner
+            android:id="@+id/spinner1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" 
+            android:textSize="10pt">     
+        </Spinner>
 
     </TableRow>
 
     <ImageView
         android:id="@+id/imageView1"
         android:layout_width="wrap_content"
-        android:layout_height="150dp"
+        android:layout_height="140dp"
         android:src="@drawable/dritta" />
 
     <Button
@@ -79,5 +110,7 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:text="@string/Salva" />
+
+ 
 
 </TableLayout>

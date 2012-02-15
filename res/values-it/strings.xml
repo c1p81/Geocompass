@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, GeocompassActivity!</string>
+    <string name="app_name">Geocompass</string>
+    <string name="Strike">Strike</string>
+    <string name="Dip">Dip</string>
+    <string name="Rovescia">Rovescia</string>
+    <string name="orizzontale">Orizzontale</string>
+    <string name="verticale">Direzione</string>
+    <string name="Salva">Salva</string>
+    <string name="gps">GPS</string>
+    <string name="help_title">Help</string>
+    <string name="help_text">I dati saranno salvati nel file sulla SD Card/geocompass.txt.Sviluppato Luca Innocenti (lucainnoc@gmail.com). Questo progetto e\' rilasciato sotto licenza GPL e puo\' essere trovato a git@github.com:c1p81/Geocompass.git.Contributi saranno benvenuti</string>
+    <string name="conferma">Conferma</string>
+    <string name="delete_data">Cancella file dati?</string>
+    <string name="si">Si</string>
+    <string name="no">No</string>
+    <string name="gps_off">GPS disabilitato, lo vuoi accendere?L\'app funzionera\' ugualmente ma con dati non georiferiti</string>
+    <string name="cancella">Delete</string>
+    <string name="calibra">Calibra</string>
+    <string name="help">Help</string>
+    <string name="gps_disabled">GPS Spento</string>
+    <string name="gps_enabled">GPS Acceso</string>
+    <string name="litologie">Dolomite;Flysch;Gesso;Calcare;Marna;Oolite;Arenaria;Argillite;Travertino</string>
+
+    
+</resources>

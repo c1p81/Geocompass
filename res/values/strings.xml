@@ -9,7 +9,18 @@
     <string name="orizzontale">Flat</string>
     <string name="verticale">Direction </string>
     <string name="Salva">Save</string>
+    <string name="gps">GPS</string>
     <string name="help_title">Help</string>
     <string name="help_text">Data will be saved on SD Card/geocompass.txt.Developed by Luca Innocenti (lucainnoc@gmail.com). This project is released with GPL license and can be found on git@github.com:c1p81/Geocompass.git. Feel free to contribute</string>
-
+    <string name="conferma">Please Confirm</string>
+    <string name="delete_data">Delete data file?</string>
+    <string name="si">Yes</string>
+    <string name="no">No</string>
+    <string name="gps_off">The GPS seems to be disabled, do you want to enable it?. The app can works without GPS data"</string>
+    <string name="cancella">Delete</string>
+    <string name="calibra">Calibrate</string>
+    <string name="help">Help</string>
+    <string name="gps_disabled">GPS Disabled</string>
+    <string name="gps_enabled">GPS Enabled</string>
+    <string name="litologie">Dolomite;Flysch;Gypsum;Limestone;Marl;Mudstone;Oolite;Sandstone;Shale;Siltstone;Travertine</string>
 </resources>
